@@ -2,6 +2,8 @@
 
 **AI & Python Developer** in Baku. I build LLM applications, RAG systems and automation, with a focus on grounding AI answers in real data and keeping people in control of consequential actions.
 
+Through **[Visualkey](https://visualkey.az)** I build AI products for businesses — RAG systems, chatbots and agents — as well as websites and apps.
+
 ### What I'm building
 
 **[JobRadar AZ](https://jobradaraz.com)** is a job-discovery website and Telegram bot for Azerbaijan. It collects vacancies from job boards and Telegram groups, uses keyword matching plus AI checks to separate real vacancies from noise, and sends alerts matched to each user's interests. The site is live and under active development.
@@ -24,4 +26,4 @@ I completed LTC Lab's six-month AI Engineering program in 2026. In October 2026 
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/samir-nabiyev-784a2831a). I'm open to junior and internship roles in AI engineering, Python development and automation.
+[LinkedIn](https://www.linkedin.com/in/samir-nabiyev-784a2831a) · [visualkey.az](https://visualkey.az). I'm open to junior and internship roles in AI engineering, Python development and automation.
