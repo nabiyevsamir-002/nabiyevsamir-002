@@ -9,6 +9,7 @@
 ### Selected projects
 
 - **[AI Project Management Assistant](https://github.com/nabiyevsamir-002/UniTech-PM-Assistant)** turns Excel project plans into tasks, health metrics and Azerbaijani summaries. AI-proposed changes require human approval. Built with Next.js, PostgreSQL and local Ollama for internal use; still under active development.
+- **[Meeting Assistant](https://github.com/nabiyevsamir-002/Meeting-Assistant)** turns meeting recordings into transcripts, summaries and action items. The repository includes a mock demo, screenshots and tests; external AI providers are optional.
 - **[Bilingual RAG shopping assistant](https://github.com/nabiyevsamir-002/Bilingual-RAG-Shopping-Assistant)** is an AZ/RU proof of concept for a large product catalogue. The repository contains a scraper, PostgreSQL/Qdrant setup and n8n workflows using Gemini; its README documents the setup and planned improvements.
 - **[Second Brain](https://github.com/nabiyevsamir-002/Second-Brain)** is an Azerbaijani-first Telegram assistant that turns notes, voice messages, photos and documents into searchable memory using PostgreSQL/pgvector and a tool-using Claude agent.
 - **[LinkedIn content automation](https://github.com/nabiyevsamir-002/LinkedIn-Content-Automation)** is a Telegram-controlled pipeline that finds AI topics and drafts posts and images. Publishing requires manual approval.
