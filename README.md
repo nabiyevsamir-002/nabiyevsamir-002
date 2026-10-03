@@ -4,14 +4,14 @@
 
 ### What I'm building
 
-**[JobRadar AZ](https://jobradaraz.com)** is a job-discovery website and Telegram bot for Azerbaijan. It collects vacancies from job boards and Telegram groups, uses keyword matching plus AI checks to separate real vacancies from noise, and sends alerts matched to each user's interests. The site is live and under active development.
+**[JobRadar AZ](https://jobradaraz.com)** is a live job-discovery website and Telegram bot for Azerbaijan. It collects vacancies from job boards and Telegram groups, filters noise, and sends alerts matched to users' interests. The [public site repository](https://github.com/nabiyevsamir-002/JobRadar-Site) shows the published website; the bot and data pipeline are in a private repository.
 
 ### Selected projects
 
-- **AI Project Management Assistant** turns Excel project plans into tasks, health scores and Azerbaijani summaries. Every AI-proposed change waits for human approval. It is built with Next.js, PostgreSQL and a local Ollama model, and is in internal use.
-- **Bilingual RAG shopping assistant** is a proof of concept over 48,480 scraped products, stored in PostgreSQL and indexed in Qdrant with Gemini embeddings. An n8n agent answers in Azerbaijani or Russian with prices and links taken from the catalogue.
-- **Second Brain** is an Azerbaijani-first Telegram assistant that turns notes, voice messages, photos and documents into searchable memory. It uses PostgreSQL/pgvector and a tool-using Claude agent.
-- **LinkedIn content automation** is a Telegram-controlled pipeline that finds AI topics and drafts posts and images. Nothing is published without manual approval.
+- **[AI Project Management Assistant](https://github.com/nabiyevsamir-002/UniTech-PM-Assistant)** turns Excel project plans into tasks, health metrics and Azerbaijani summaries. AI-proposed changes require human approval. Built with Next.js, PostgreSQL and local Ollama for internal use; still under active development.
+- **[Bilingual RAG shopping assistant](https://github.com/nabiyevsamir-002/Bilingual-RAG-Shopping-Assistant)** is an AZ/RU proof of concept for a large product catalogue. The repository contains a scraper, PostgreSQL/Qdrant setup and n8n workflows using Gemini; its README documents the setup and planned improvements.
+- **[Second Brain](https://github.com/nabiyevsamir-002/Second-Brain)** is an Azerbaijani-first Telegram assistant that turns notes, voice messages, photos and documents into searchable memory using PostgreSQL/pgvector and a tool-using Claude agent.
+- **[LinkedIn content automation](https://github.com/nabiyevsamir-002/LinkedIn-Content-Automation)** is a Telegram-controlled pipeline that finds AI topics and drafts posts and images. Publishing requires manual approval.
 - **Client websites:** [vinique.az](https://vinique.az) is an AZ/EN/RU product catalogue with WhatsApp ordering, and [ibrahimwrestling.az](https://www.ibrahimwrestling.az) is an AZ/TR/RU/EN site for a wrestling coach.
 
 ### Tech
@@ -20,7 +20,7 @@ Python · FastAPI · PostgreSQL / pgvector · Qdrant · LangChain · LangGraph �
 
 ### Learning
 
-I completed LTC Lab's six-month AI Engineering program in 2026. In October 2026 I start Div Academy's AI Engineering program on a 60% scholarship.
+I completed LTC Lab's six-month AI Engineering program in 2026. I am scheduled to start Div Academy's AI Engineering program in October 2026 on a 60% scholarship.
 
 ### Contact
 
